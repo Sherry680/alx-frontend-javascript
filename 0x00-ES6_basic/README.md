@@ -1,1 +1,1 @@
-ES6 basic
+FRONtend ES6 basic
